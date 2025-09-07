@@ -61,4 +61,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravel-clinic-reservation
 This software is licensed under the MIT License.
+
 I'd like the English version, please.
+
+Powered by Google Gemini 2.5 Pro
